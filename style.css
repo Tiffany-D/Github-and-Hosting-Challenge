@@ -1,0 +1,147 @@
+.card {
+    background-image: url(telephone.jpg);
+    background-position:inherit;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: grid;
+    
+}
+
+
+
+
+h1 {
+        font-family: 'RocknRoll One', sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        color: #bd2000;
+        display: inline;
+      
+       
+      
+    }
+
+    h2 {
+        font-family: 'RocknRoll One', sans-serif;
+        color: #e27802;
+        font-size: 20px;
+        margin: 0 auto;
+        
+
+    }
+    input {
+        border-radius: 30px;
+        display:inline ;
+        margin: 20px 0 auto auto;
+        position: relative;
+       top: 50%;
+    }
+
+    .far.fa-sun.sun-icon {
+        font-size: 50px;
+        color: #ffd56b;
+        
+        
+       
+        
+    }
+  
+
+    p {
+        font-family: 'RocknRoll One', sans-serif;
+        font-size: 12px;
+        color: #f4f9f9;
+        text-align: right;
+        margin: 10px 0 auto auto;
+        
+       
+    
+    }
+  
+
+    .col-2 {
+        background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+        font-family: 'RocknRoll One', sans-serif;
+        text-align: center;
+        color: #bd2000;
+        font-size: 15px;
+        margin: 20px 0 auto auto;
+        border-radius: 15px;
+       
+       
+    }
+
+ 
+
+.far.fa-sun {
+
+        color: black;
+        font-size: 20px;
+        font-weight: bold;
+        
+       
+        
+        
+
+       
+    }
+    .temperature {
+        color: #bd2000;
+        font-family: 'RocknRoll One', sans-serif;
+    }
+
+    .fas.fa-cloud-sun {
+        color: black;
+        font-size: 20px;
+        float: right;
+        
+       
+        
+    }
+
+    .fas.fa-cloud-rain {
+        color: black;
+        font-size: 20px;
+        text-align: right;
+        float: right;
+        
+       
+        
+       
+    }
+    .fas.fa-cloud {
+        color: black;
+        font-size: 20px;
+        float: right;
+       
+       
+         
+    }
+    .fas.fa-cloud-sun-rain {
+        color: black;
+        font-size: 20px;
+        
+       
+         
+    }
+    .col {
+        margin:30px 0 auto auto;
+        align-items: center;
+        justify-content: center;
+    }
+
+    footer {
+        color: silver;
+        text-align: left 5px;
+        font-size: 10px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: lighter;
+    }
+
+ 
+   
+        
+       
+
+    
+   
